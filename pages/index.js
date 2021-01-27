@@ -17,6 +17,8 @@ import db from '../db.json';
 //   )
 // }
 
+
+
 const BackgroundImage = styled.div`
    background-image: url(${db.bg});
    flex: 1;
